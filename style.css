@@ -7,8 +7,12 @@ h1{
 .blue-color{
     color: blue;
 }
-section{
+.flexible-container{
     display: flex;
+
+}
+#center{
+    text-align: center;
 }
 .half-width{
     width: 50%;
@@ -26,3 +30,48 @@ section{
     font-weight: 700;
     border-radius: 5%;    
 }
+.dog{
+    color: greenyellow;
+}
+.flexible-container{
+    display: flex;
+}
+#line-1{
+    background-color: steelblue;
+    border-radius: 20px;
+    margin: 10px 40px 10px 10px
+}
+#line-2{
+    background-color:greenyellow;
+    border-radius: 20px;
+    margin: 12px 40px 10px 10px}
+    #line-3{
+        background-color: rosybrown;
+        border-radius: 20px;
+        margin: 10px 40px 10px 10px}
+        .half-width{
+            width: 50%;
+        }
+        .half-width img{
+            width: 80%;
+            margin-top: 30px;
+        
+        }
+        .half-width img{
+            width: 100%;
+            margin-top: 30px;}
+            footer{
+                background-color:black;
+                font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                text-align: center;
+                color: white;
+            }
+            #white{
+                color: white;
+            }
+            #tomato{
+                color:orange;
+            }
+            
+        
+
